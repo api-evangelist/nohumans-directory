@@ -1,4 +1,4 @@
-# nohumans-directory
+# nohumans.directory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,133 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nohumans-directory is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nohumans.directory/
+nohumans.directory is a curated directory of paid x402-enabled APIs for AI agents. It indexes third‑party API endpoints, provides automated verification, reputation scoring, and detailed methodology. Users can browse listings, submit APIs, and view state metrics, all while adhering to transparent terms and privacy policies.
+
+**Areas:** Directory · API Registry · Paid API Verification · AI Agents · MCP Service
+
+## nohumans.directory on APIs.io
+
+Everything profiled for nohumans.directory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nohumans-directory/](https://apis.io/providers/nohumans-directory/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [nohumans.directory Alerts API](https://apis.io/apis/nohumans-directory/nohumans-directory-alerts-api/) — The Alerts API from nohumans.directory — 3 operation(s) for alerts.
+- [nohumans.directory Attestations API](https://apis.io/apis/nohumans-directory/nohumans-directory-attestations-api/) — The Attestations API from nohumans.directory — 1 operation(s) for attestations.
+- [nohumans.directory Changes API](https://apis.io/apis/nohumans-directory/nohumans-directory-changes-api/) — The Changes API from nohumans.directory — 1 operation(s) for changes.
+- [nohumans.directory Check API](https://apis.io/apis/nohumans-directory/nohumans-directory-check-api/) — The Check API from nohumans.directory — 1 operation(s) for check.
+- [nohumans.directory Demand API](https://apis.io/apis/nohumans-directory/nohumans-directory-demand-api/) — The Demand API from nohumans.directory — 3 operation(s) for demand.
+- [nohumans.directory Discover API](https://apis.io/apis/nohumans-directory/nohumans-directory-discover-api/) — The Discover API from nohumans.directory — 1 operation(s) for discover.
+- [nohumans.directory Listings API](https://apis.io/apis/nohumans-directory/nohumans-directory-listings-api/) — The Listings API from nohumans.directory — 10 operation(s) for listings.
+- [nohumans.directory Methodology.json API](https://apis.io/apis/nohumans-directory/nohumans-directory-methodology-json-api/) — The Methodology.json API from nohumans.directory — 1 operation(s) for methodology.json.
+- [nohumans.directory Reports API](https://apis.io/apis/nohumans-directory/nohumans-directory-reports-api/) — The Reports API from nohumans.directory — 1 operation(s) for reports.
+- [nohumans.directory Resolve API](https://apis.io/apis/nohumans-directory/nohumans-directory-resolve-api/) — The Resolve API from nohumans.directory — 1 operation(s) for resolve.
+- [nohumans.directory Sellers API](https://apis.io/apis/nohumans-directory/nohumans-directory-sellers-api/) — The Sellers API from nohumans.directory — 1 operation(s) for sellers.
+- [nohumans.directory State API](https://apis.io/apis/nohumans-directory/nohumans-directory-state-api/) — The State API from nohumans.directory — 2 operation(s) for state.
+- [nohumans.directory State.json API](https://apis.io/apis/nohumans-directory/nohumans-directory-state-json-api/) — The State.json API from nohumans.directory — 1 operation(s) for state.json.
+- [nohumans.directory Stats API](https://apis.io/apis/nohumans-directory/nohumans-directory-stats-api/) — The Stats API from nohumans.directory — 1 operation(s) for stats.
+- [nohumans.directory Verdicts API](https://apis.io/apis/nohumans-directory/nohumans-directory-verdicts-api/) — The Verdicts API from nohumans.directory — 1 operation(s) for verdicts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [nohumans.directory Agentic Access](https://apis.io/agentic-access/nohumans-directory/nohumans-directory-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [ListingDetail](https://apis.io/schemas/nohumans-directory/nohumans-directory-listing-detail/)
+- [ListingSummary](https://apis.io/schemas/nohumans-directory/nohumans-directory-listing-summary/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nohumans Directory Context](https://apis.io/jsonld/nohumans-directory/nohumans-directory-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [nohumans.directory API Rules](https://apis.io/rules/nohumans-directory/nohumans-directory-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [nohumans.directory Authentication](https://apis.io/security/nohumans-directory/nohumans-directory-authentication/)
+- [nohumans.directory Domain Security](https://apis.io/security/nohumans-directory/nohumans-directory-domain-security/)
+- [nohumans.directory Vulnerability Disclosure](https://apis.io/security/nohumans-directory/nohumans-directory-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nohumans.directory/)
+- [Documentation](https://nohumans.directory/apis)
+- [Getting started](https://nohumans.directory/guides)
+- [API reference](https://nohumans.directory/llms.txt)
+- [Security](https://nohumans.directory/apis/security)
+- [Terms of service](https://nohumans.directory/terms)
+- [Privacy policy](https://nohumans.directory/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.5** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.7 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 45.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nohumans-directory/](https://apis.io/providers/nohumans-directory/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for nohumans.directory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nohumans-directory/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
